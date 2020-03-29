@@ -1,0 +1,7 @@
+/* Add application styles & imports to this file! */
+.dropdown-header {
+    padding: 8px 20px;
+    background: #e4e7ea;
+    border-bottom: 1px solid #c8ced3;
+    margin-top: -8px;
+}
